@@ -653,6 +653,7 @@ body
   .elemento__interno
   .elemento__icone
   img {
+  padding: 10px;
   min-width: 20px;
   max-width: 20px;
 }
