@@ -101,7 +101,6 @@ header .logo img {
 }
 
 .content {
-  padding-top: 120px;
   position: relative;
   z-index: 1;
   max-width: 550px;
