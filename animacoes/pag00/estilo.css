@@ -657,6 +657,7 @@ body
   img {
   min-width: 20px;
   max-width: 20px;
+  padding-top: 5px;
 }
 body .caixa__geral .caixa__imagem__fundo .elemento__interno .elemento__icone {
   display: flex;
